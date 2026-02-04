@@ -8,13 +8,7 @@ This project focuses on understanding core frontend concepts, DOM manipulation, 
 
 ✅ Create tasks using a modal form
 
-✅ Drag & drop tasks between columns:
-
-Todo
-
-In Progress
-
-Done
+✅ Drag & drop tasks between columns: Todo, In Progress, Done
 
 ✅ Visual feedback while dragging tasks
 
@@ -62,10 +56,12 @@ Dynamic UI updates
 Modular and reusable JavaScript functions
 
 ## 📂 Project Structure
+```
 ├── index.html
 ├── style.css
 ├── script.js
 └── README.md
+```
 
 ## ⚙️ How It Works
 
