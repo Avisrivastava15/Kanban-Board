@@ -95,3 +95,5 @@ Backend integration (API / Database)
 Authentication
 
 React-based version
+
+**Live URL:** [click here](https://kanban-board321.netlify.app/)
